@@ -3,5 +3,5 @@ This folder contains R code for estimating and making inference about the increm
 
 "ORruleExample.R" contains an example R code for estimating and making inference about the incremental value using a fuzzy p-value based approach and the bootstrap based approached.
 
-"gettheta_1.0.tar.gz" includes a R package built for finding the maximizers in the threshold using the grid search method. 
+"gettheta_1.0.tar.gz" includes a R package built for finding the maximizers in the threshold using the grid search method.
 
